@@ -1,0 +1,6 @@
+{
+    "python.formatting.provider": "black",
+    "editor.codeActionsOnSave": null,
+    "jupyter.jupyterServerType": "local",
+    "python.linting.flake8Enabled": true
+}
